@@ -1,5 +1,5 @@
 # Project
-# Final project 
+# Predict the onset of diabetes based on diagnostic measures and present a multi-modal system to track and trace it
 
 import numpy as np
 import pandas as pd
